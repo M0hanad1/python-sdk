@@ -12,7 +12,7 @@ Top.gg Python Library
    :target: https://topggpy.readthedocs.io/en/latest/?badge=latest
    :alt: Documentation Status
 
-A simple API wrapper for `Top.gg <https://top.gg/>`_ written in Python, supporting discord.py.
+A simple API wrapper for `Top.gg <https://top.gg/>`_ written in Python, supporting pycord.
 
 Installation
 ------------
