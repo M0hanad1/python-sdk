@@ -55,7 +55,7 @@ extlinks = {
 
 intersphinx_mapping = {
     "py": ("https://docs.python.org/3", None),
-    "discord": ("https://pycord.readthedocs.io/en/latest/", None),
+    "discord": ("https://docs.pycord.dev/en/master/", None),
     "aiohttp": ("https://docs.aiohttp.org/en/stable/", None),
 }
 
